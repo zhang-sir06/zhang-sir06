@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zhang-sir06
 - 👀 I’m interested in what i don't know
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on bilibili or mihoyo
 - 📫 How to reach me qq:2758157562
 
 <!---
